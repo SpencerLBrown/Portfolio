@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Original
+  - Prefab
+  - MMGBox
+  - MagBoots
+  - Button
+  - Victory
+  - GravPlat
+  - Canvas
+  - Door
+  - Canvas2
+  - GunRay
+  - TextField
+  - NameHolder
+  - Background
+  - TitleScreenAudioController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Grapple
+  - Gun
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 803777099
+    locked: 0
+  - name: Player
+    uniqueID: 2978922641
+    locked: 0
+  - name: Gun
+    uniqueID: 1993908437
+    locked: 0
