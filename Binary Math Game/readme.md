@@ -1,4 +1,5 @@
 ****Overview:****
+
 For CME 332 at the University of Saskatchewan,
 we were tasked with developing a program designed
 to run in a real-time environment using the
@@ -15,6 +16,7 @@ displayed either on the board’s LCD screen or an
 external VGA monitor.
 
 ****My work:****
+
 My primary task in this project was learning how
 the DE2-115's VGA mode worked (as it was
 something never taught in class), creating the
@@ -27,21 +29,22 @@ In addition to this, I assisted with coding and
 debugging some of the on-board mode's functions
 as the project grew in size.
 
-****Technical Details****
+****Technical Details:****
+
 Should this program be ran, the user will require
 - an Altera DE2-115 FPGA
 - Quartus
 - Eclipse Nios II
 
-Connect the FPGA to the computer, boot Quartus,
+Steps to get it running
+- Connect the FPGA to the computer, boot Quartus,
 and program it with the Media Computer.
-
-Create a workspace in Eclipse Nios II, adding the
+- Create a workspace in Eclipse Nios II, adding the
 two folders found within this directory.
-
-Select the game to run on the appropriate
+- Select the game to run on the appropriate
 hardware connection, then press run.
 
+Note:
 If switch 17 on the FPGA is high on system
 start/restart, VGA out display mode is entered.
 Else, on-board display mode is entered. In its
