@@ -41,8 +41,8 @@ Steps to get it running
 and program it with the Media Computer.
 - Create a workspace in Eclipse Nios II, adding the
 two folders found within this directory.
-- Select the game to run on the appropriate
-hardware connection, then press run.
+- Select labProject_BinaryMathGame to run on the
+appropriate hardware connection, then press run.
 
 Note:
 If switch 17 on the FPGA is high on system
